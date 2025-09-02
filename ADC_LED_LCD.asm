@@ -1,6 +1,6 @@
 ;
 ; ADC-LED-LCD.asm
-; Author : NELLANJIMMS
+; Author : NELLY NDUNG'U
 ;
 .include "m328pdef.inc"
 
